@@ -1,4 +1,4 @@
-package trieMatching;
+package trie.matching;
 
 import java.io.*;
 import java.util.*;
